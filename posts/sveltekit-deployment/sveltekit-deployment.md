@@ -30,7 +30,7 @@ By the end of this post you're going to learn how to host a full stack SvelteKit
 
 ## Web Hosting Types
 
-If you're not interested in learning more about web hosting options and why I picked these solutions I'm not going to take it personal, so skip to [deploying your SvelteKit project](https://joyofcode.xyz/deploying-sveltekit/#deploying-a-sveltekit-project) but I promise it's worth your time.
+If you're not interested in learning more about web hosting options and why I picked these solutions I'm not going to take it personal, so skip to [deploying your SvelteKit project](https://joyofcode.xyz/sveltekit-deployment/#deploying-a-sveltekit-project) but I promise it's worth your time.
 
 There are several types of affordable web hosting you can use that is great for a beginner or small business:
 
